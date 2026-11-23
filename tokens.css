@@ -1,0 +1,24 @@
+:root {
+  --bg: #111519;
+  --bg-2: #171d21;
+  --panel: #20282c;
+  --accent: #c3a36a;
+  --accent-2: #8f774b;
+  --text: #dde3e5;
+  --text-2: #929da3;
+  --border: #303a40;
+
+  --accent-a: rgba(195, 163, 106, 0.14);
+  --accent-b: rgba(195, 163, 106, 0.32);
+  --danger: #c2674f;
+
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-display: 'Rajdhani', 'Inter', sans-serif;
+  --font-data: 'Space Grotesk', 'Inter', sans-serif;
+
+  --nav-h: 56px;
+  --side-w: 300px;
+  --info-w: 340px;
+  --radius: 2px;
+  --ease: cubic-bezier(0.22, 0.8, 0.24, 1);
+}
